@@ -8,3 +8,6 @@ aws devicefarm schedule-run --project-arn arn:aws:devicefarm:us-west-2:409629073
 
 
 aws devicefarm schedule-run --project-arn arn:aws:devicefarm:us-west-2:409629073475:project:cdf9a723-8fe3-433e-90f2-e02cb9686ee5 --app-arn arn:aws:devicefarm:us-west-2:409629073475:upload:cdf9a723-8fe3-433e-90f2-e02cb9686ee5/c1f096e0-c138-44be-a388-0f121457b8fc --device-pool-arn arn:aws:devicefarm:us-west-2:409629073475:devicepool:cdf9a723-8fe3-433e-90f2-e02cb9686ee5/1c366a73-ff92-4b0d-8d40-63260023d3b9 --name firstCLIRun --test type=APPIUM_JAVA_TESTNG,testPackageArn=arn:aws:devicefarm:us-west-2:409629073475:upload:cdf9a723-8fe3-433e-90f2-e02cb9686ee5/0f8a3568-05af-454c-8fe3-16e9d0196594
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC8kv+YRXnjvbUIAvhXjkb1jKkbuXW++bcdR/tZH4PTByy747CuoUmuzVye6c4IJ19YBWhTE77nsDAzr9Nm3f/dAf8dBu1kk28Q/fsdy/mZ2rHubm1AiFgMUJqKZH36filU9FyEOglCjKvcWX9nr7IGsPpuFb/mTRenwUBELLzO9mNFVIB+/yq6dys8iVnUqCNUzG6CmR2v2PtjfWj8Iipn02kxssr9htBPJtq3p1XFJPjSF5JJzGH1dgiIvlW7CY27ctxq7Ntv2W4kk7OUDlmUiF+bmzIcR6hT5biSpZRfqH6DwnsmsOJEtTP50GMK0WKSRvvLM9IcHOEHwSrx7eYp
