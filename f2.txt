@@ -1,3 +1,2 @@
 https://docs.aws.amazon.com/cli/latest/reference/devicefarm/index.html
 
-arn:aws:devicefarm:us-west-2:249933210673:upload:3ecc7790-408c-47ae-844f-fd1f0afd6a1d/b062c5b5-dd26-41ea-a0e7-4fb78d7791a7
